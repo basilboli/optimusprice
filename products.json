@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "brand": "Nike",
+    "name": "Nike Roshe Nm Flyknit Se",
+    "price": "130",
+    "image": "http://cdn1.sarenza.net/static/_img/productsV4/0000130240/MD_0000130240_245917_09.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Reebok",
+    "name": "Cl Lthr",
+    "price": "89.99",
+    "image": "http://cdn1.sarenza.net/static/_img/productsV4/0000104973/MD_0000104973_194128_09.jpg"
+  }
+]
