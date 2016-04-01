@@ -23,7 +23,7 @@ products = [
         "id": 2,
         "brand": "ASUS",
         "name": "ASUS GeForce GTX 950 GTX950-OC-2GD5",
-        "price": "189.95",
+        "price": "186",
         "image": "http://media.ldlc.com/ld/products/00/03/58/29/LD0003582993_2.jpg"
     },
     {
@@ -59,7 +59,7 @@ products = [
 users = [
     {
         "id": 1,
-        "like": [2, 1, 6]
+        "like": [2]
     },
     {
         "id": 2,
