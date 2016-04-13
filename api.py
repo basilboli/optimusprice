@@ -23,14 +23,14 @@ products = [
         "id": 2,
         "brand": "ASUS",
         "name": "ASUS GeForce GTX 950 GTX950-OC-2GD5",
-        "price": "186",
+        "price": "180",
         "image": "http://media.ldlc.com/ld/products/00/03/58/29/LD0003582993_2.jpg"
     },
     {
         "id": 3,
         "brand": "Acer",
         "name": "Acer 27 LED - S277HKWMJDPP",
-        "price": "619.95",
+        "price": "609.95",
         "image": "http://media.ldlc.com/ld/products/00/03/45/80/LD0003458035_2.jpg"
     },
     {
