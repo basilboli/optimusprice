@@ -2,3 +2,5 @@ telepot
 finist
 redis
 flask
+flask_restful
+pymongo
